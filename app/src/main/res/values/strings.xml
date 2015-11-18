@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Mind</string>
+    <string name="new_game">New Game</string>
+    <string name="options">Options</string>
+    <string name="top_minds">Top Minds</string>
+    <string name="about">About</string>
+</resources>
